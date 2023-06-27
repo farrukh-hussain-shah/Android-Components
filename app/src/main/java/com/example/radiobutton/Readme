@@ -1,0 +1,5 @@
+ViewBinding
+in this first we create a new activity and create a xml file in which desing our text of other(title,number)
+then we import in main xml
+and then we create (OOPs) class of (title,name) and then object class called tasklist and then we initialze our data
+and then we do implemt in Main adapter and then import all in main activity
